@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Nutrilab-Pocketlab/react_app_demo/static/css/main.334bdeb1.css",
+    "main.js": "/Nutrilab-Pocketlab/react_app_demo/static/js/main.1ccef774.js",
+    "index.html": "/Nutrilab-Pocketlab/react_app_demo/index.html",
+    "static/media/search.svg": "/Nutrilab-Pocketlab/react_app_demo/static/media/search.b416605642fcb3f2447edc96c1a80e05.svg",
+    "main.334bdeb1.css.map": "/Nutrilab-Pocketlab/react_app_demo/static/css/main.334bdeb1.css.map",
+    "main.1ccef774.js.map": "/Nutrilab-Pocketlab/react_app_demo/static/js/main.1ccef774.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.334bdeb1.css",
+    "static/js/main.1ccef774.js"
+  ]
+}
